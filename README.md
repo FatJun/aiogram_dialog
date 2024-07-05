@@ -14,7 +14,7 @@
  
 It is inspired by ideas of Android SDK and other tools.
 
-Main ideas are:1
+Main ideas are:
 * **split data retriving, rendering and action processing** - you need nothing to do for showing same content after some actions, also you can show same data in multiple ways. 
 * **reusable widgets**  - you can create calendar or multiselect at any point of your application without copy-pasting its internal logic  
 * **limited scope of context** - any dialog keeps some data until closed, multiple opened dialogs process their data separately
